@@ -8,6 +8,5 @@ namespace ProjectForGit
 {
     internal class User
     {
-        // Треье изменение
     }
 }
