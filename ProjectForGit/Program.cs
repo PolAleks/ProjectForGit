@@ -8,6 +8,7 @@
             Console.WriteLine("Hello, World!");
             // Удалил все изменения для master
             // Изменения для subtask_1
+            // Изменения для subtask_2
         }
     }
 }
