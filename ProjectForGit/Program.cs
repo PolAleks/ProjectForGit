@@ -7,6 +7,7 @@
             // Изменения для подзадачи №1 
             Console.WriteLine("Hello, World!");
             // Удалил все изменения для master
+            // Изменения для subtask_1
         }
     }
 }
