@@ -10,5 +10,10 @@ namespace ProjectForGit
     {
         // Решил подзадачу 6
         // Решил подзадачу 7
+
+        public User()
+        {
+            
+        }
     }
 }
